@@ -1,4 +1,5 @@
 # Simple example of redis queue with fastAPI and a docker compose to deploy easily
+Taken from https://medium.com/@mike.p.moritz/using-docker-compose-to-deploy-a-lightweight-python-rest-api-with-a-job-queue-37e6072a209b with some slight adaptations and corrections
 
 ## Usage
 Start the docker stack
